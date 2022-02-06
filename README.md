@@ -1,4 +1,5 @@
  ## Olá sou Bruno Nascimento programador web e skatista.
+ ** Seja bem vindo!   
  
  <div align="center">
   <a href="https://github.com/BrunoNascimentoBarbosa">
